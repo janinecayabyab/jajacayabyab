@@ -8,7 +8,7 @@ body{
 	position:relative;
 	overflow:hidden;
 	font-family: Lora, serif;
-	background:#787270 !important;
+	background:#7EF9F7 !important;
 }
 *{
 	font-family: inherit;
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6{
 	font-family: 'Roboto Mono', sans-serif;
 }
 .color{
-	color:#303F9F;
+	color:#A0DC9F;
 }
 ::-webkit-scrollbar{
 	background:#F0F0F0;
